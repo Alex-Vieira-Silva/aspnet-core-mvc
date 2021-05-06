@@ -1,0 +1,9 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\bin\Debug\netcoreapp1.1\MVC.deps.json
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\bin\Debug\netcoreapp1.1\MVC.runtimeconfig.json
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\bin\Debug\netcoreapp1.1\MVC.runtimeconfig.dev.json
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\bin\Debug\netcoreapp1.1\MVC.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\bin\Debug\netcoreapp1.1\MVC.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\obj\Debug\netcoreapp1.1\MVC.csprojResolveAssemblyReference.cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\obj\Debug\netcoreapp1.1\MVC.AssemblyInfo.cs
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\obj\Debug\netcoreapp1.1\MVC.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\MVC\MVC\obj\Debug\netcoreapp1.1\MVC.pdb
